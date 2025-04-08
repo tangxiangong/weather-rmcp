@@ -1,4 +1,4 @@
-pub mod utils;
+pub mod weather;
 
 #[cfg(feature = "sse")]
 pub mod sse;
